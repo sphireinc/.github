@@ -35,3 +35,15 @@ In addition to our server monitoring solutions, we are the creators of **FSx Fli
 ## Our Commitment
 
 At Sphire, we are committed to excellence and innovation. Our goal is to develop cutting-edge technologies that enable businesses to efficiently monitor and maintain their server health, ensuring their digital infrastructure operates at peak performance. We continuously strive to push the boundaries of what's possible, delivering transformative solutions through creative engineering.
+
+## Helpful Links
+
+🔗 [Sphire on Crunchbase](https://www.crunchbase.com/organization/sphire) <br>
+🐜 [Sphire Mantis](https://github.com/sphireinc/Mantis) <br>
+🔧 [Sphire Core](https://github.com/sphireinc/Core)  <br>
+⚙️ [Sphire Godex](https://github.com/sphireinc/Godex) <br>
+
+
+
+
+ 
