@@ -10,10 +10,10 @@ At Sphire, we are dedicated to creating advanced tools for modern businesses, wi
 
 We believe in the power of open-source and contribute to the community with our libraries:
 
-- **Hydra**: A Go library for quickly hydrating a struct with data from a database.
-- **Mantis**: A robust framework for building scalable and efficient applications.
-- **Core**: A foundational library providing essential tools and utilities for developers.
-- **Godex**: A powerful toolkit for advanced data processing and manipulation.
+- **[🐙 Hydra](https://github.com/sphireinc/Hydra)** - A Go library for quickly hydrating a struct with data from a database.
+- **[🐜 Mantis](https://github.com/sphireinc/Mantis)** - A robust framework for building scalable and efficient applications.
+- **[🔧 Core](https://github.com/sphireinc/Core)** - A foundational library providing essential tools and utilities for developers.
+- **[⚙️ Godex](https://github.com/sphireinc/Godex)** - A powerful toolkit for advanced data processing and manipulation.
 
 ## Our Commitment
 
