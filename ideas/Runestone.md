@@ -1,33 +1,33 @@
-# Runestone – Encrypted, Self-Hosted Note-Taking & Knowledge Management  
+# Runestone – Portable, SQLite-Like JSON Document Store  
 
 ## Overview  
-Runestone is a **privacy-first, self-hosted note-taking and knowledge management system** built for developers, researchers, and teams. It provides **end-to-end encryption, offline access, and seamless syncing**, ensuring your notes remain **secure, portable, and always accessible**.  
+Runestone is a **lightweight, embeddable document database** designed for local-first applications. It provides **structured JSON storage with full-text search, indexing, and ACID transactions**, making it an ideal alternative to SQLite for **document-based storage**.  
 
 ## Key Features  
 
-### 🔒 End-to-End Encryption  
-- **Zero-knowledge encryption** for full data privacy  
-- **AES-256 encryption** for notes, attachments, and metadata  
-- **Client-side encryption before data leaves your device**  
+### 📂 JSON Document Storage  
+- **Schema-free, NoSQL-style storage** for structured JSON documents  
+- **Efficient querying and indexing** for fast lookups  
+- **Supports nested documents and arrays**  
 
-### 📖 Powerful Note-Taking & Organization  
-- **Markdown support** with rich text, code blocks, and syntax highlighting  
-- **Bi-directional linking & graph view** for knowledge mapping  
-- **Tagging, nested folders, and full-text search**  
+### 🔍 Full-Text Search & Indexing  
+- **Built-in full-text search** with ranking and filtering  
+- **Customizable indexing** for optimized queries  
+- **Tokenization and stemming support**  
 
-### 🔄 Sync & Collaboration  
-- **Self-hosted or cloud-agnostic storage** (supports S3, Nextcloud, IPFS)  
-- **Offline-first architecture** with automatic sync when online  
-- **Multi-user support** for teams with role-based permissions**  
+### 🔄 Offline & Local-First Storage  
+- **Lightweight and embeddable** with zero external dependencies  
+- **Works offline** with local persistence and sync options  
+- **Ideal for mobile, desktop, and edge applications**  
 
-### 🚀 Extensible & Customizable  
-- **API for integrations** with other tools (Joplin, Obsidian, Logseq)  
-- **Plugins & themes support** for a personalized experience  
-- **Command-line interface (CLI) for power users**  
+### 🔐 ACID Transactions & Data Integrity  
+- **Atomicity, consistency, isolation, and durability (ACID) support**  
+- **Multi-version concurrency control (MVCC)** for seamless updates  
+- **Reliable data storage for embedded applications**  
 
 ## Use Cases  
-✅ **Secure, encrypted note-taking** for sensitive information  
-✅ **Personal knowledge management (PKM)** with backlinks & search  
-✅ **Offline-first note storage** with self-hosting options  
-✅ **Collaborative documentation** for teams  
-✅ **Integration with dev workflows & Git-based versioning**  
+✅ **Embedded database for local-first applications**  
+✅ **Fast, portable document storage for edge computing**  
+✅ **Offline sync solutions for mobile & desktop apps**  
+✅ **Lightweight alternative to MongoDB for embedded environments**  
+✅ **Full-text search on structured JSON documents**  
