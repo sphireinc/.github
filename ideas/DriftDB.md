@@ -1,7 +1,7 @@
-# Drifted – Database Schema Drift Detection & Migration Tool  
+# DriftDB – Database Schema Drift Detection & Migration Tool  
 
 ## Overview  
-Drifted is a **schema drift detection and migration tool** for Go, designed to help developers **identify, track, and manage database schema changes** over time. It ensures **consistency between environments**, preventing unexpected issues due to unintentional schema modifications.  
+DriftDB is a **schema drift detection and migration tool** for Go, designed to help developers **identify, track, and manage database schema changes** over time. It ensures **consistency between environments**, preventing unexpected issues due to unintentional schema modifications.  
 
 ## Key Features  
 
