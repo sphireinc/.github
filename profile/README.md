@@ -22,10 +22,10 @@ At Sphire, we are committed to excellence and innovation. Our goal is to develop
 
 ## Helpful Links
 🗞️ [Foundry](https://github.com/sphireinc/Foundry) <br>
-🐙 [Sphire Hydra](https://github.com/sphireinc/Hydra) <br>
-🐜 [Sphire Mantis](https://github.com/sphireinc/Mantis) <br>
-🔧 [Sphire Core](https://github.com/sphireinc/Core)  <br>
-⚙️ [Sphire Godex](https://github.com/sphireinc/Godex) <br>
+🐙 [Hydra](https://github.com/sphireinc/Hydra) <br>
+🐜 [Mantis](https://github.com/sphireinc/Mantis) <br>
+🔧 [Core](https://github.com/sphireinc/Core)  <br>
+⚙️ [Godex](https://github.com/sphireinc/Godex) <br>
 
 🔗 [Our Website](https://sphire.co) <br>
 🔗 [Sphire on Crunchbase](https://www.crunchbase.com/organization/sphire) <br>
