@@ -10,6 +10,7 @@ At Sphire, we are dedicated to creating advanced tools for modern businesses, wi
 
 We believe in the power of open-source and contribute to the community with our libraries:
 
+- **[🗞️ Foundry](https://github.com/sphireinc/Foundry)** - A full featured Markdown-first CMS written in Go.
 - **[🐙 Hydra](https://github.com/sphireinc/Hydra)** - A Go library for quickly hydrating a struct with data from a database.
 - **[🐜 Mantis](https://github.com/sphireinc/Mantis)** - A robust framework for building scalable and efficient applications.
 - **[🔧 Core](https://github.com/sphireinc/Core)** - A foundational library providing essential tools and utilities for developers.
@@ -20,7 +21,7 @@ We believe in the power of open-source and contribute to the community with our 
 At Sphire, we are committed to excellence and innovation. Our goal is to develop cutting-edge technologies that enable businesses to efficiently monitor and maintain their server health, ensuring their digital infrastructure operates at peak performance. We continuously strive to push the boundaries of what's possible, delivering transformative solutions through creative engineering.
 
 ## Helpful Links
-
+🗞️ [Foundry](https://github.com/sphireinc/Foundry)
 🐙 [Sphire Hydra](https://github.com/sphireinc/Hydra) <br>
 🐜 [Sphire Mantis](https://github.com/sphireinc/Mantis) <br>
 🔧 [Sphire Core](https://github.com/sphireinc/Core)  <br>
