@@ -10,8 +10,9 @@ At Sphire, we are dedicated to creating advanced tools for modern businesses, wi
 
 We believe in the power of open-source and contribute to the community with our libraries:
 
-- **[🗞️ Foundry](https://github.com/sphireinc/Foundry)** - A full featured Markdown-first CMS written in Go.
-- **[🐙 Hydra](https://github.com/sphireinc/Hydra)** - A Go library for quickly hydrating a struct with data from a database.
+- **[🗞️ Foundry](https://github.com/sphireinc/Foundry)** - A full-featured, Markdown-first CMS written in Go.
+- **[⛵ git-ark](https://github.com/sphireinc/git-ark)** - A cross-platform CLI for backing up Git repositories across multiple Git remotes.
+- **[🐙 Hydra](https://github.com/sphireinc/Hydra)** - A Go library for quickly hydrating structs with data from a database.
 - **[🐜 Mantis](https://github.com/sphireinc/Mantis)** - A robust framework for building scalable and efficient applications.
 - **[🔧 Core](https://github.com/sphireinc/Core)** - A foundational library providing essential tools and utilities for developers.
 - **[⚙️ Godex](https://github.com/sphireinc/Godex)** - A powerful toolkit for advanced data processing and manipulation.
@@ -20,14 +21,9 @@ We believe in the power of open-source and contribute to the community with our 
 
 At Sphire, we are committed to excellence and innovation. Our goal is to develop cutting-edge technologies that enable businesses to efficiently monitor and maintain their server health, ensuring their digital infrastructure operates at peak performance. We continuously strive to push the boundaries of what's possible, delivering transformative solutions through creative engineering.
 
-## Helpful Links
-🗞️ [Foundry](https://github.com/sphireinc/Foundry) <br>
-🐙 [Hydra](https://github.com/sphireinc/Hydra) <br>
-🐜 [Mantis](https://github.com/sphireinc/Mantis) <br>
-🔧 [Core](https://github.com/sphireinc/Core)  <br>
-⚙️ [Godex](https://github.com/sphireinc/Godex) <br>
-
-🔗 [Our Website](https://sphire.co) <br>
+## Other Links
+🔗 [Sphire Website](https://sphire.co) <br>
+🔗 [Sphire Labs Website](https://labs.sphire.co) <br>
 🔗 [Sphire on Crunchbase](https://www.crunchbase.com/organization/sphire) <br>
 
 
