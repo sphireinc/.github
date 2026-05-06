@@ -11,6 +11,7 @@ At Sphire, we are dedicated to creating advanced tools for modern businesses, wi
 We believe in the power of open-source and contribute to the community with our libraries:
 
 - **[🗞️ Foundry](https://github.com/sphireinc/Foundry)** - A full-featured, Markdown-first CMS written in Go.
+- **[⛏️ Quarry](https://github.com/sphireinc/Quarry)** - A Go toolkit for composing safe, explicit SQL without ORM magic or string-concat sadness.
 - **[⛵ git-ark](https://github.com/sphireinc/git-ark)** - A cross-platform CLI for backing up Git repositories across multiple Git remotes.
 - **[🐙 Hydra](https://github.com/sphireinc/Hydra)** - A Go library for quickly hydrating structs with data from a database.
 - **[🐜 Mantis](https://github.com/sphireinc/Mantis)** - A robust framework for building scalable and efficient applications.
